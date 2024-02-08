@@ -72,7 +72,7 @@
       "metadata": {
         "description": "Target GitHub account"
       },
-      "defaultValue": "microsoft"
+      "defaultValue": "carloandrea"
     },
     "githubBranch": {
       "type": "string",
